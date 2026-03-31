@@ -51,5 +51,23 @@ cd zapret
 # Запустите установку (Linux/Mac)
 chmod +x install.sh
 ./install.sh
-
+```
 # Или просто распакуйте архив и запустите start.bat (Windows)
+
+## 📖 Инструкция
+# 1️⃣ Запуск
+Windows:
+
+```cmd
+zapret.main.exe -domains "8908748636475#8475.txt" -v
+Linux / macOS:
+```
+```bash
+./zapret.main.exe -domains "8908748636475#8475.txt" -v
+```
+# 2️⃣ Настрой браузер на прокси
+Адрес: 127.0.0.1
+
+Порт: 8080
+
+# 3️⃣ Готово! 🎉
