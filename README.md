@@ -4,18 +4,11 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-0078D4?style=for-the-badge&logo=windows)](https://github.com/Likegenm/zapret)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet" height="100">
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="100">
-</p>
-
-<p align="center">
-  <b>Профессиональный инструмент для обхода DPI (Deep Packet Inspection)</b><br>
-  Легкий, быстрый и эффективный прокси-сервер на Go
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
+</div>
 
 ---
 
