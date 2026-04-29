@@ -5,6 +5,10 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet" height="100">
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=go" height="100">
 </p>
 
